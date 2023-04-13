@@ -1,4 +1,4 @@
-# digital agency landing Page
+# Digital agency landing Page
 
 This is a digital agency landing Page website
 ## Live Demo
