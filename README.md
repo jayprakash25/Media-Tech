@@ -1,8 +1,7 @@
 # Digital agency landing Page
 
 This is a digital agency landing Page website
-## Live Demo
-https://digitai.netlify.app/
+
 
 ## Contributing
 
