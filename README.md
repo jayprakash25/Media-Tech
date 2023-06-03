@@ -1,6 +1,6 @@
 # Digital agency landing Page
 
-This is a digital agency landing Page website
+MediaTech help's Early age Digital Startups Grow.
 
 # Live 
 https://mediatech.tech/
